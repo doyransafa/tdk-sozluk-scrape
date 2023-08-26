@@ -9,7 +9,8 @@ Türkçe sözlükteki tüm keliemelerin listelendiği dijital bir kaynak bulamad
 
 Peki en fazla anlama sahip Türkçe kelime hangisi? TDK online sözlüğe göre ["çıkmak"](https://sozluk.gov.tr/?/%C3%A7%C4%B1kmak), 56 anlamla en fazla anlama sahip kelime. Çıkmak kelimesini 47 anlamla ["tutmak"](https://sozluk.gov.tr/?/tutmak) ve 43 anlamla ["çekmek"](https://sozluk.gov.tr/?/%C3%A7ekmek) kelimeleri takip ediyor. En fazla sayıda anlama sahip ilk 20 kelime aşağıdaki şekilde:
 
-<img width="216" alt="Screenshot 2023-07-12 at 15 48 44" src="https://github.com/doyransafa/tdk-scrape/assets/72417108/35fa1732-35f1-4f95-965a-821a1796b27b">
+<img width="219" alt="Pasted Graphic 1" src="https://github.com/doyransafa/tdk-sozluk-scrape/assets/72417108/8b1784c2-d950-427b-b587-ab8a8554973e">
+
 
 Beklenildiği üzere kelimelerin tamamı fiil. Fiil olmayan kelimeler arasında en fazla anlama sahip 3 kelime ise 19 anlamla "iş", 18 anlamla "ağırlık" ve 17 anlamla "ağır".
 
@@ -17,7 +18,7 @@ Peki, elimizdeki bu 63 bin kelime aramasından başka nelere ulaşabiliriz? http
 
 ## En fazla sayıda kelimeye sahip yabancı diller:
 
-<img width="168" alt="Screenshot 2023-07-12 at 15 50 28" src="https://github.com/doyransafa/tdk-scrape/assets/72417108/99e5f22b-af9a-4c7b-ba24-9c4556038146">￼
+<img width="172" alt="Pasted Graphic 2" src="https://github.com/doyransafa/tdk-sozluk-scrape/assets/72417108/52ca65c2-5028-4903-82ac-5b6088eb86f3"><img width="185" alt="Pasted Graphic 3" src="https://github.com/doyransafa/tdk-sozluk-scrape/assets/72417108/07317808-9ce6-4eb8-a5b9-93da60fa8de1">
 
 Arapça, Fransızca ve Farsça ilk 3 sırada yer alıyor. Not: 400 adet kelime Arapça ve Farsça kelimelerin birleşiminden elde edilmiştir. Bu tarz kelimeler her iki dil için de sayılmıştır.
 
@@ -25,4 +26,4 @@ Arapça, Fransızca ve Farsça ilk 3 sırada yer alıyor. Not: 400 adet kelime A
 
 63 bin kelime içerisinde toplam 229 yazardan cümle örneğine yer verilmiştir. En fazla referans gösterilen 20 yazar aşağıdaki şekildedir:
 
-<img width="181" alt="Screenshot 2023-07-12 at 15 51 10" src="https://github.com/doyransafa/tdk-scrape/assets/72417108/98d2c6d3-d537-4cca-955a-4a2ce3457980">
+<img width="185" alt="Pasted Graphic 3" src="https://github.com/doyransafa/tdk-sozluk-scrape/assets/72417108/6aba22d2-e008-4deb-9962-50d74954cd35">
