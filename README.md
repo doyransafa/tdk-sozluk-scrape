@@ -18,7 +18,7 @@ Peki, elimizdeki bu 63 bin kelime aramasından başka nelere ulaşabiliriz? http
 
 ## En fazla sayıda kelimeye sahip yabancı diller:
 
-<img width="172" alt="Pasted Graphic 2" src="https://github.com/doyransafa/tdk-sozluk-scrape/assets/72417108/52ca65c2-5028-4903-82ac-5b6088eb86f3"><img width="185" alt="Pasted Graphic 3" src="https://github.com/doyransafa/tdk-sozluk-scrape/assets/72417108/07317808-9ce6-4eb8-a5b9-93da60fa8de1">
+<img width="172" alt="Pasted Graphic 2" src="https://github.com/doyransafa/tdk-sozluk-scrape/assets/72417108/52ca65c2-5028-4903-82ac-5b6088eb86f3">
 
 Arapça, Fransızca ve Farsça ilk 3 sırada yer alıyor. Not: 400 adet kelime Arapça ve Farsça kelimelerin birleşiminden elde edilmiştir. Bu tarz kelimeler her iki dil için de sayılmıştır.
 
